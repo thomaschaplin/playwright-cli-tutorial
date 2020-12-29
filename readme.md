@@ -1,6 +1,6 @@
 # 🎭 Playwright CLI Tutorial
 
-This repositroy goes alongside the Medium [article]() **"Playwright CLI: A simple recipe to get started with browser automation"**
+This repositroy goes alongside the Medium [article](https://thomaschaplin.medium.com/playwright-cli-a-simple-recipe-to-get-started-with-browser-automation-def5d1ef45ee) **"Playwright CLI: A simple recipe to get started with browser automation"**
 
 > Please read the article to get a full understanding of what's going on in this repository.
 
